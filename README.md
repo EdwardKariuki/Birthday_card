@@ -1,2 +1,2 @@
 # Birthday_card
-A UI on selecting views,positioning views and styling views for a birthday card. 
+A UI demonstrating views selection,positioning and styling with a birthday card. 
